@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-notify": "*",
+    "gulp-phpspec": "*",
+    "gulp-run": "*"
+  },
+  "dependencies": {
+    "gulp-notify": "^2.2.0",
+    "gulp-phpspec": "^0.5.4"
+  }
+}
